@@ -7,7 +7,7 @@ I'm have recently completed the 28 week, Full-stack Software Development Bootcam
 
 Things that I'm passionate about:
 
-Becoming a more effective Software Developer
-Encouraging beginners to get involved in software
-Open-source software
-Coffee!
+- Becoming a more effective Software Developer
+- Encouraging beginners to get involved in software
+- Open-source software
+- Coffee!
