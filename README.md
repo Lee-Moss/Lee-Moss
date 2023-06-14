@@ -1,16 +1,13 @@
-### Hi there 👋
+![Lee Moss](https://github.com/Lee-Moss/Lee-Moss/assets/109576407/c2b9d147-9ccf-4ad4-882f-917c10879bfd)
 
-<!--
-**Lee-Moss/Lee-Moss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Lee.
 
-Here are some ideas to get you started:
+I'm have recently completed the 28 week, Full-stack Software Development Bootcamp with CommandShift. In my spare time I am continuing on with my learning to become a more competent developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Things that I'm passionate about:
+
+Becoming a more effective Software Developer
+Encouraging beginners to get involved in software
+Open-source software
+Coffee!
